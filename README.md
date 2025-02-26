@@ -1,13 +1,10 @@
 # Crypto Hunter
 
 ## Check and Generate Random Mnemonic (BIP39) for Ethereum, BNB, and Dogecoin Addresses
-
-### Auto Install and Run Dumper Mnemonic on Windows
-Easily install all required Python libraries and run the script with a single click using `Auto_Run.bat`. 
+![изображение](https://github.com/user-attachments/assets/5ec0b74f-0b33-42c8-9f4a-5cd4e5916e1c)
 
 **Instructions:**
 1. Download the script.
-2. Right-click `Auto_Run.bat` and select **Run As Administrator**.
 
 [Download Dumper Mnemonic for Windows](#)
 
