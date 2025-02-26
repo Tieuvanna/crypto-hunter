@@ -18,10 +18,6 @@ pip install cryptofuzz
 pip install colorthon
 pip install requests
 pip install requests-random-user-agent
+python crypto-hunter.py
 ```
- the Script
-Once dependencies are installed, run the script:
-- **Windows:**
-  ```sh
-  python crypto-hunter.py
-  ```
+
