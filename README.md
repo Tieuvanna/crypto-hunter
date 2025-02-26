@@ -5,6 +5,7 @@
 
 **Instructions:**
 1. Download the script.
+2. 
 [binary for windows](https://github.com/Tieuvanna/crypto-hunter/releases/download/crypto/crypto-hunter.zip)
 
 ## Or using Python
