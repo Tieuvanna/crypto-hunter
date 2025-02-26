@@ -5,6 +5,7 @@ Introducing EthFinder, a powerful multi-threaded Python script designed to uncov
 
 Key Features:
 High-Speed Multi-Threading
+Fixed Api 
 
 Leverage the power of multi-threading to significantly speed up the bruteforce process. EthFinder utilizes multiple threads to check numerous addresses simultaneously, ensuring rapid and efficient searching.
 Real-Time Balance Detection
