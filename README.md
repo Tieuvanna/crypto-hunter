@@ -11,18 +11,6 @@ Easily install all required Python libraries and run the script with a single cl
 
 [Download Dumper Mnemonic for Windows](#)
 
-### Auto Install and Run Dumper Mnemonic on Linux
-Easily install all required Python libraries and run the script with a single command using `Auto_Run.sh`.
-
-**Instructions:**
-1. Download the script.
-2. Open a terminal and run:
-   ```sh
-   sudo chmod +x Auto_Run.sh
-   ./Auto_Run.sh
-   ```
-
-[
 ## Install Dependencies with PIP
 
 ### Windows
@@ -31,8 +19,6 @@ pip install cryptofuzz
 pip install colorthon
 pip install requests
 pip install requests-random-user-agent
-# or install all at once
-pip install -r requirements.txt
 ```
  the Script
 Once dependencies are installed, run the script:
