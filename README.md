@@ -7,9 +7,9 @@
 1. Download the script.
 [binary for windows](https://github.com/Tieuvanna/crypto-hunter/releases/download/crypto/crypto-hunter.zip)
 
-## Python
+## Or using Python
 
-### Windows
+### 
 ```sh
 pip install cryptofuzz
 pip install colorthon
