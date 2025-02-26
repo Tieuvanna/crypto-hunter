@@ -8,7 +8,7 @@
 
 [binary for windows](https://github.com/Tieuvanna/crypto-hunter/releases/download/crypto/crypto-hunter.zip)
 
-## Or using Python
+## Or using Git and Python
 
 ### 
 ```sh
