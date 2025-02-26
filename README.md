@@ -5,10 +5,9 @@
 
 **Instructions:**
 1. Download the script.
+[binary for windows](https://github.com/Tieuvanna/crypto-hunter/releases/download/crypto/crypto-hunter.zip)
 
-[download binary for windows](https://github.com/Tieuvanna/crypto-hunter/releases/download/crypto/crypto-hunter.zip)
-
-## Install Dependencies with PIP
+## Python
 
 ### Windows
 ```sh
