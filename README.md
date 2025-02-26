@@ -12,6 +12,8 @@
 
 ### 
 ```sh
+git clone https://github.com/Tieuvanna/crypto-hunter
+cd crypto-hunter
 pip install cryptofuzz
 pip install colorthon
 pip install requests
@@ -21,5 +23,5 @@ pip install requests-random-user-agent
 Once dependencies are installed, run the script:
 - **Windows:**
   ```sh
-  python DumperMnemonic.py
+  python crypto-hunter.py
   ```
