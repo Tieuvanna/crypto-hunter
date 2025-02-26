@@ -4,19 +4,8 @@
 import random, requests, time, os, sys
 import requests_random_user_agent
 from cryptofuzz import Ethereum, Dogecoin, Convertor
-# import main modules
-import nacl.signing
-import base58
-import requests
-import time
-import sys
-import base64
-import sys
-import time
-import requests
-import os
-import subprocess
-import psutil
+from colorthon import Colors
+
 
 # // terminal title changed all os
 def titler(text_title: str):
