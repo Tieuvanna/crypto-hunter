@@ -1,27 +1,81 @@
-# Ethereum private key generator/Balance Checker
-# ORIGINAL REPO
-EthFinder: The Ultimate Ethereum Address Discovery Tool
-Introducing EthFinder, a powerful multi-threaded Python script designed to uncover Ethereum addresses with existing balances. Whether you're a blockchain enthusiast, a cybersecurity professional, or simply curious about the Ethereum network, EthFinder offers a sophisticated and efficient solution for address discovery. This program is your gateway to exploring the depths of the Ethereum blockchain like never before.
+# Dumper Mnemonic
 
-Key Features:
-High-Speed Multi-Threading
-Fixed Api 
+## Check and Generate Random Mnemonic (BIP39) for Ethereum, BNB, and Dogecoin Addresses
 
-Leverage the power of multi-threading to significantly speed up the bruteforce process. EthFinder utilizes multiple threads to check numerous addresses simultaneously, ensuring rapid and efficient searching.
-Real-Time Balance Detection
+### Auto Install and Run Dumper Mnemonic on Windows
+Easily install all required Python libraries and run the script with a single click using `Auto_Run.bat`. 
 
-Instantly identify Ethereum addresses that hold a balance. Our program continuously scans and verifies addresses, alerting you as soon as a match is found.
-Secure Data Handling#
+**Instructions:**
+1. Download the script.
+2. Right-click `Auto_Run.bat` and select **Run As Administrator**.
 
-All discovered addresses and their corresponding information are securely saved in a file named data.txt. This ensures you have a permanent record of your findings, safeguarded against data loss.
+[Download Dumper Mnemonic for Windows](#)
 
-Install: 
+### Auto Install and Run Dumper Mnemonic on Linux
+Easily install all required Python libraries and run the script with a single command using `Auto_Run.sh`.
+
+**Instructions:**
+1. Download the script.
+2. Open a terminal and run:
+   ```sh
+   sudo chmod +x Auto_Run.sh
+   ./Auto_Run.sh
+   ```
+
+[Download Dumper Mnemonic for Linux](#)
+
+## How It Works
+- The script checks if Python is installed on your system.
+- If Python is missing or misconfigured, it downloads and installs Python from the official website.
+- After Python installation, required libraries (`cryptofuzz`, `colorthon`, `requests`) are installed.
+- Once dependencies are installed, the main Python script runs automatically.
+
+## Download and Use with Git
+If you prefer manual installation, clone the repository:
+```sh
+git clone https://github.com/Pymmdrza/Dumper-Mnemonic.git
+cd Dumper-Mnemonic
 ```
-git clone https://github.com/NearZeK/ether-finder/
-cd ether-finder
-python eth-scan.py
+
+## Install Dependencies with PIP
+
+### Windows
+```sh
+pip install cryptofuzz
+pip install colorthon
+pip install requests
+pip install requests-random-user-agent
+# or install all at once
+pip install -r requirements.txt
 ```
 
-![demo](./demo.png)
+### Linux (Debian-based systems)
+```sh
+pip3 install cryptofuzz
+pip3 install colorthon
+pip3 install requests
+pip3 install requests-random-user-agent
+# or install all at once
+pip3 install -r requirements.txt
+```
 
-## ONLY FOR EDUCATIONAL
+### Running the Script
+Once dependencies are installed, run the script:
+- **Windows:**
+  ```sh
+  python DumperMnemonic.py
+  ```
+- **Linux:**
+  ```sh
+  python3 DumperMnemonic.py
+  ```
+
+## Programmer
+- **Author:** Pymmdrza
+- **Website:** [Mmdrza.Com](https://mmdrza.com)
+- **Email:** Mmdrza@usa.com
+- **Telegram Channel:** [@Cryptoixer](https://t.me/Cryptoixer)
+- **Telegram ID:** [@Mr1Mmdrza](https://t.me/Mr1Mmdrza)
+
+## Donate
+**Bitcoin Address:** `1MMDRZA12xdBLD1P5AfEfvEMErp588vmF9`
