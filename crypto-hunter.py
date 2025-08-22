@@ -1,4 +1,4 @@
-# // First Install Python Libraries //
+## // First Install Python Libraries //
 # // pip install requests colorthon cryptofuzz requests-random-user-agent//
 # // Import Libraries //
 import random, requests, time, os, sys
@@ -216,3 +216,4 @@ while True:
         print(f"[{z} | Found:{ff}]  Mne: {red}{mnemonic[0:64]}{reset}")
         print(f"[{z} | Found:{ff}]  Hex: {convert_hex}")
         print(f"{'-' * 66}")
+
